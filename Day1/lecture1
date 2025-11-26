@@ -1,0 +1,35 @@
+### Time Efficiency ###
+
+Techniques measuring time
+* Measuring time to execute 
+* Counting operations involved
+* Abstract notion of order of growth
+
+> Problems with this approach
+
+$ Measuring time to execute
+
+* Different time for diffrent algotrith. ✅
+* Time varies if implementation changes. ❌
+* Different machines different time. ❌
+* Does not work for extremely small input
+* Time varies for diffrent inputs, but can't establish a relationship.❌
+
+$ Counting Operattion 
+
+* Different time for diffrent algotrith. ✅
+* Time varies if implementation changes. ❌
+* Different machines different time. ✅
+* No clear defination of which operation to count.❌ 
+* Time varies for diffrent inputs, but can't establish a relationship.✅
+
+
+# Order of growth
+
+* want to evaluate program's efficiency when input is very big .
+* want to express the growth of program's run time as input size grows 
+* want to input an upper bound on gowth - as tight as possible 
+* do not need to be precise: "order of" not "exact" growth
+* we will look at largest factors in run time ( which sectioin of the progarm will tkae the longest to run ?) 
+
+
