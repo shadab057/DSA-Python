@@ -1,0 +1,23 @@
+
+
+### Linear Data Structure
+
+
+# > Linear DS store used to store multiple item of same type in continous memory location
+
+# ex - 100 marks 
+#   [1,2,3,4,,5.....100]
+#    100 101 102
+
+> Disadvance 
+
+- fixed  size (memory waste)
+- homogeneous [lack of flexibility] -> 
+
+
+> DYNAMIC ARRAY INTERVIEW IMPORTANT
+
+- Dynamic array is just concept 
+- python list -> Dynamic Array
+
+* SIZE -> ADJSUT
