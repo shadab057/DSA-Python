@@ -12,6 +12,6 @@ class MeraList:
     
     def __make_array(self, new_size):
         return (new_size * ctypes.py_object)()  # create array of size new_size
-
+    
 L = MeraList()
 print(type(L))
